@@ -52,6 +52,10 @@
         <bt:Set Name="Mailbox"/>
       </bt:Sets>
     </Requirements>
+     <WebApplicationInfo>
+    <Id>edc31410-d406-476a-8ac1-b062e1df4a77</Id> 
+    <Resource>https://graph.microsoft.com</Resource>
+  </WebApplicationInfo>
 
     <Hosts>
       <Host xsi:type="MailHost">
