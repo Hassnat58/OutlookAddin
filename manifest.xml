@@ -45,7 +45,7 @@
     <Rule xsi:type="ItemIs" ItemType="Message" FormType="Read"/>
   </Rule>
 
-  <VersionOverrides xmlns="http://schemas.microsoft.com/office/mailappversionoverrides">
+ <VersionOverrides xmlns="http://schemas.microsoft.com/office/mailappversionoverrides/1.1">
 
     <Requirements>
       <bt:Sets DefaultMinVersion="1.3">
