@@ -17,7 +17,7 @@
   <SupportUrl DefaultValue="https://www.contoso.com/help"/>
 
   <AppDomains>
-  <AppDomain>https://hassnat58.github.io</AppDomain>
+  <AppDomain>https://hassnat58.github.io/OutlookAddin</AppDomain>
 </AppDomains>
 
   <Hosts>
