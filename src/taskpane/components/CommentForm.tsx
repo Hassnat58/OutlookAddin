@@ -5,8 +5,8 @@ import { PublicClientApplication } from "@azure/msal-browser";
 import { msalConfig } from "./msalConfig";
 
 // SharePoint configuration
-const siteId = "aae3a36f-054a-487c-98c6-01dcfc4f68e7";
-const listId = "1ea113bc-e701-4b95-a9cf-d5fd14cbc0d7";
+const siteId = "8314c8ba-c25a-4a02-bf25-d6238949ac8f";
+const listId = "5f59364d-9808-4d26-8e04-2527b4fc403e";
 
 const msalInstance = new PublicClientApplication(msalConfig);
 
