@@ -29,7 +29,7 @@
   <FormSettings>
     <Form xsi:type="ItemRead">
       <DesktopSettings>
-        <SourceLocation DefaultValue="https://hassnat58.github.io/OutlookAddin/taskpane.html/taskpane.html"/>
+        <SourceLocation DefaultValue="https://hassnat58.github.io/OutlookAddin/taskpane.html"/>
         <RequestedHeight>250</RequestedHeight>
       </DesktopSettings>
     </Form>
